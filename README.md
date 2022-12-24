@@ -2,4 +2,4 @@
 small todo list manager with local storage capabilites
 
 
-Hello :)
+hello for git :)
